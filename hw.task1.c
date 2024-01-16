@@ -1,6 +1,3 @@
-//Student ID: 89221055 
-//Student: Anastasija Temova
-
 #include <stdio.h>
 //Main function
 int main()
