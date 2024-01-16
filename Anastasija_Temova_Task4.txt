@@ -26,7 +26,3 @@ then
 else
           echo error: git not installed
 fi
-
-
-Student ID: 89221055
-Student: Anastasija Temova
