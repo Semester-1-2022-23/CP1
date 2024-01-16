@@ -13,5 +13,4 @@ done
 for 1 in "${arr[0]}"; do echo "$i";
 done
 
-Student ID: 89221055
-Student: Anastasija Temova
+
