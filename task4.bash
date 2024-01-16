@@ -28,5 +28,3 @@ else
 fi
 
 
-Student ID: 89221055
-Student: Anastasija Temova
