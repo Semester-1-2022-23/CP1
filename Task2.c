@@ -1,5 +1,3 @@
-//Student ID: 89221055
-//Student: Anastasija Temova
 
 #include<stdio.h>
 #include <stdlib.h>
