@@ -5,7 +5,3 @@ find \( -name '*.jpg' -o name '*.jpeg' -o -name '*.png' \) -type f -delete
 cd..
 tar -zcvf photos_personal.gz photos
 rm -r photos
-
-
-Student ID: 89221055
-Student: Anastasija Temova
