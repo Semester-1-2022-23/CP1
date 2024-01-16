@@ -1,4 +1,4 @@
-*Create a C Program that will do the following below:
+/*Create a C Program that will do the following below:
 The program should allow the user to input a value for variables a, b, C and be able to determine
 if the sides/angles represent a Right Triangle, Acute Triangle or an Obtuse Triangle.
 Note the following facts:
